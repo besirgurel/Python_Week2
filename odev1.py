@@ -17,4 +17,3 @@ print("""
 Sansli sayilar {}. gecis ile belirlendi.
 
 Sansli sayilar:""".format(gecis),lst)
-input("Bitti.")
