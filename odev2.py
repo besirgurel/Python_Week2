@@ -14,4 +14,3 @@ while True:
     else:
         print("""Hatali girdiniz.
 Lutfen tekrar deneyin.\n""")
-input("Bitti.")
