@@ -10,4 +10,3 @@ z=sorted(list(klm2.difference(klm)))
 z="".join(z)
 sonuc=[x,y,z]
 print(sonuc)
-input("Bitti.")
